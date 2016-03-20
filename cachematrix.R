@@ -20,6 +20,7 @@ makeCacheMatrix <- function(x = matrix()) {
 
 
 ## Write a short comment describing this function
+## Revendo código
 
 cacheSolve <- function(x, ...) {
         ## Retorna um matriz que é a Inversa de x
